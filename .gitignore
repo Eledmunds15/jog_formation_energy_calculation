@@ -1,11 +1,8 @@
 # Ignore datafiles and processed dumps
 01_input_files/straight_edge_dislo.lmp
 
-02_minimize_dislo/min_dump
-02_minimize_dislo/min_input
-
-04_jog_creation/min_dump
-04_jog_creation/min_input
+**/min_dump/
+**/min_input/
 
 06_jog_stability/
 07_dynamics_analysis/
