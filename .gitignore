@@ -7,6 +7,9 @@
 04_jog_creation/min_dump
 04_jog_creation/min_input
 
+06_jog_stability/
+07_dynamics_analysis/
+
 *_files/
 
 # Ignore all log.lammps files
